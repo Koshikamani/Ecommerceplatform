@@ -1,1 +1,1 @@
-# CodeAlpha_E-Commerce
+# ECommerce Platform
